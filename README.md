@@ -1,11 +1,11 @@
 # Airbnb Listing Price Prediction 🏠💰
 
-## Overview:##
+##Overview:##
 
 
-One of the biggest challenges for Airbnb hosts is determining the optimal price for their property listings. While some hosts may browse existing listings for reference, this manual approach can be time-consuming and may not always yield accurate results. In this Kaggle competition, we aim to enhance the user experience for potential Airbnb hosts by developing a machine learning model to predict the price range of their listings based on various listing characteristics.
+One of the biggest challenges for Airbnb hosts is determining the optimal price for their property listings. While some hosts may browse existing listings for reference, this manual approach can be time-consuming and may not always yield accurate results. In this Kaggle competition, we aim to enhance the user experience for potential Airbnb hosts by developing a machine-learning model to predict the price range of their listings based on various listing characteristics.
 
-## Problem Statement:##
+##Problem Statement:##
 
 
 The primary goal of this competition is to predict the price category for Airbnb listings in Montreal. Instead of predicting the actual price, we've divided pricing into three distinct categories: beginner, plus, and premium. Each listing will be assigned one of these categories (denoted by 0, 1, or 2), allowing new hosts to receive pricing recommendations tailored to their listings.
